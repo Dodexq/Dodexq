@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dodexq
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python, Linux, Git, Vagrant, Maven, Doker, Kubernetes, Jankins
-- 💞️ I’m looking to collaborate on None
+- 👀 I'm student in DevOps Engineer
+- 🌱 I’m learning Python, Linux, Git, Vagrant, Docker, Kubernetes, Jankins, Ansible
 - 📫 How to reach me dodexpwnz@gmail.com or Dodexq on Telegram
 
 <!---
